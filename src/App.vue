@@ -123,7 +123,7 @@ export default {
     },
 
     fetchInformation() {
-      fetch(`http://localhost:3000/profile`)
+      fetch(`http://localhost:3000/`)
         .then(res => {
           return res.json();
         })
