@@ -1,4 +1,4 @@
-# weatheapp
+# weather app
 
 
 Vue.js app for users to search weathe status and to safe the result to the list. If you want to search the weather condition and save the result, this web app provides an easy-to-use interface.
@@ -12,7 +12,7 @@ APP live on :
 
 ## Videos
 ### check the app
-![Alt Text](https://github.com/samirparab2019/eventree/blob/master/docs/My-Movie.gif)
+![Alt Text](https://www.dropbox.com/s/etfhs0vdfq8q9ks/WeatherApp.gif?dl=0)
 
  
 
