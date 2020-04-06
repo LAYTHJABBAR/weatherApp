@@ -5,10 +5,14 @@ Vue.js app for users to search weather status and to safe the result to the list
 
 
 
-APP live on : 
+### APP live on: 
 
 (https://weather-app-vue1.herokuapp.com/)
  
+### server live on:
+
+(https://nameless-depths-44931.herokuapp.com/profile)
+
 
 ## Videos
 ### check the app
