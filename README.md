@@ -1,7 +1,7 @@
 # weather app
 
 
-Vue.js app for users to search weathe status and to safe the result to the list. If you want to search the weather condition and save the result, this web app provides an easy-to-use interface.
+Vue.js app for users to search weather status and to safe the result to the list. If you want to search the weather condition and save the result, this web app provides an easy-to-use interface.
 
 
 
